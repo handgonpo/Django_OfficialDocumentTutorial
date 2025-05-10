@@ -21,9 +21,17 @@ Django_OfficialDocumentTutorial/
 ## ▶️ 실행 방법
 
 1. 가상환경 활성화:
-   source venv/bin/activate  # macOS/Linux
-   venv\Scripts\activate     # Windows
-   
-2. 패키지 설치: pip install -r requirements.txt
+```bash
+source venv/bin/activate  # macOS/Linux
+venv\Scripts\activate     # Windows
+```
+
+2. 패키지 설치: 
+```bash
+pip install -r requirements.txt
+```
+
+
+
 
 
