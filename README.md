@@ -12,7 +12,6 @@ Django_OfficialDocumentTutorial/
 └── .gitignore
 ```
 
-```markdown
 ## ⚙️ 개발 환경
 
 - Python 3.12.3
@@ -26,5 +25,5 @@ Django_OfficialDocumentTutorial/
    venv\Scripts\activate     # Windows
    
 2. 패키지 설치: pip install -r requirements.txt
-```
+
 
